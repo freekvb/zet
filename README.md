@@ -12,7 +12,9 @@ automatically set.
 The local collection zettels is searchable with a fzf 'find given string in all
 files' function.
 
-inspiration rwxrob
-* [rwx.gg] <https://rwx.gg>
+#### inspiration rwxrob
+* [rwxrob on youtube] <https://www.youtube.com/c/rwxrob>
+* [rwxrob on github] <https://github.com/rwxrob>
 
-> tags: #readme #zettel #rwxrob
+
+> tags: #zettel #markdown #github #script #fzf #rwxrob
