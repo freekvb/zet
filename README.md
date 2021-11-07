@@ -3,11 +3,16 @@ zet
 
 #### 'whatever' knowledge
 
-Een verzameling korte notities over 'whatever comes to mind'. Schrijven met ```nvim``` als .md, naar .html renderen met ```pandoc``` en in private 'zet' github repo plaatsen met ```git-cli```. Ik moet nog uitvogelen hoe maar wil hele workflow automatiseren, note schrijven, opslaan en alles done.
+A zettelkasten, a collection of short notes or so called zettels about 'whatever
+comes to mind'. The zettels are in markdown written with neovim, localy (GMT)
+timestamped saved and with a cronjob script within 15 min. published on github.
+The commit message is the title (the header) of the zettel and is with a script
+automatically set.
 
-En gaande weg leren typen.
+The local collection zettels is searchable with a fzf 'find given string in all
+files' function.
 
-##### inspiratie rwxrob
-* [rwx.gg] <https://rwx.gg> "rwx.gg"
+inspiration rwxrob
+* [rwx.gg] <https://rwx.gg>
 
-> tags: #readme #rwxrob
+> tags: #readme #zettel #rwxrob
